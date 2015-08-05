@@ -1,3 +1,2 @@
 # image-processing
 python image processing...
-first task is to count pills in an image
